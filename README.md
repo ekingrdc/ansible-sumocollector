@@ -1,3 +1,5 @@
+Deprecated, no longer maintained. R/O, feel free to fork. Alternatively, I can transfer ownership if you like. 
+
 SumoCollector
 --------------
 Ansible role to install SumoCollector. This role was based on wgregorian as recommended by Sumo staff.  That was a native install using yum.  
@@ -194,5 +196,5 @@ MIT
 
 Project Contributors
 -------
-##### William Gregorian - CISO, FutureAdvisor.
+##### William Gregorian 
 ##### Kesten Broughton - Sr. Devops Engineer, CognitiveScale
